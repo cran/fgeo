@@ -1,0 +1,3 @@
+#' @importFrom {package} {topic}
+#' @export
+{package}::{alias}
