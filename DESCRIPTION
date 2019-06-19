@@ -1,11 +1,11 @@
 Package: fgeo
 Title: Analyze Forest Diversity and Dynamics
-Version: 1.1.3
+Version: 1.1.4
 Authors@R: 
     c(person(given = "Mauro",
              family = "Lepore",
              role = c("aut", "ctr", "cre"),
-             email = "leporem@si.edu",
+             email = "maurolepore@gmail.com",
              comment = c(ORCID = "0000-0002-1986-7988")),
       person(given = "Gabriel",
              family = "Arellano",
@@ -119,7 +119,7 @@ Language: en-US
 LazyData: true
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-05-21 18:33:08 UTC; LeporeM
+Packaged: 2019-06-19 14:37:45 UTC; mauro
 Author: Mauro Lepore [aut, ctr, cre] (<https://orcid.org/0000-0002-1986-7988>),
   Gabriel Arellano [aut, rev],
   Richard Condit [aut],
@@ -143,6 +143,6 @@ Author: Mauro Lepore [aut, ctr, cre] (<https://orcid.org/0000-0002-1986-7988>),
   Graham Zemunik [aut, rev],
   Daniel Zuleta [aut, rev],
   CTFS-ForestGEO [cph, fnd]
-Maintainer: Mauro Lepore <leporem@si.edu>
+Maintainer: Mauro Lepore <maurolepore@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-05-24 13:30:03 UTC
+Date/Publication: 2019-06-19 22:10:53 UTC
